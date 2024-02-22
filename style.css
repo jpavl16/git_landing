@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #b46002;
   }
 
 .container {
@@ -9,16 +9,16 @@ body {
 h1 {
   color: #fff;
   font-family: 'Space Mono', monospace;
-  font-size: 3rem;
+  font-size: 4rem;
   text-align: center;
   font-weight: 300;
 }
   
 img {
-  max-width: 40%;
+  max-width: 20rem;
   padding: 20px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
 form {
