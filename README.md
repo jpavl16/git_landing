@@ -4,4 +4,5 @@ https://jpavl16.github.io/git_landing/
 
 
 Pregunta:
-¿Existe el link en la imagen en la rama master? Originalmente la imagen no estaba disponible en la rama main o master, descargue otra y trabaje con la rama development.
+¿Existe el link en la imagen en la rama master? 
+Originalmente la imagen no estaba disponible en la rama main o master, descargue otra y trabaje con la rama development.
